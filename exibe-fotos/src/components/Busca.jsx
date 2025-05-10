@@ -33,7 +33,7 @@ export default class Busca extends Component {
               value={this.state.termoDeBusca}
             />
           </IconField>
-          <Button label='OK' outlined />
+          <Button label='OK' />
         </div>
       </form>
     )
